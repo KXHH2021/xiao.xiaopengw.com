@@ -913,6 +913,8 @@ css_prefix: true
 inject:
   head:
     # - <link rel="stylesheet" href="/xxx.css">
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5281252809215100"
+     crossorigin="anonymous"></script>
   bottom:
     # - <script src="xxxx"></script>
 
