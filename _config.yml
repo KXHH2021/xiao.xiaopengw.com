@@ -9,7 +9,7 @@ description: ''
 keywords:
 author: John Doe
 language: en
-timezone: ''
+timezone: Asia/Hong_Kong
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -101,12 +101,33 @@ theme: butterfly
 
 sitemap:
     path: sitemap.xml # 索引地图路径
+    rel: true
     tag: false # 标签页不添加到网站地图中
     category: false # 分类页不添加到网站地图中
 
 nofollow:
   enable: true
   field: site
+# Deployment
+## Docs: https://hexo.io/docs/one-command-deployment
+deploy:
+  type: ''
+feed:
+  type:
+    - atom
+    - rss2
+  path:
+    - atom.xml
+    - rss2.xml
+  limit: false
+
+nofollow:
+  enable: true
+  field: site
+
+## Themes: https://hexo.io/themes/
+theme: butterfly
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
