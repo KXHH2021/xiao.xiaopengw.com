@@ -208,9 +208,9 @@ noticeOutdate:
 footer:
   owner:
     enable: true
-    since: 2022
-  custom_text:
-  copyright: true # Copyright of theme and framework
+    since: 2024
+  custom_text:<a href="/rss2.xml" target="_blank">RSS2</a> | <a href="/privacy/" target="_blank">Privacy</a> | <a href="/atom.xml" target="_blank">Atom</a>
+  copyright: false # Copyright of theme and framework
 
 # aside (側邊欄)
 # --------------------------------------
