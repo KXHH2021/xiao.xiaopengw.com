@@ -11,7 +11,6 @@ tags:
   - Java
   - MATLAB
   - Mac OS
-description: 在做视觉任务时，我们经常会用到开源视觉库OpenCV，OpenCV是一个基于Apache2.0许可（开源）发行的跨平台计算机视觉和机器学习软件库
 cover: https://s2.loli.net/2024/01/05/JtUAnOgPxj8bopr.png
 ---
 
