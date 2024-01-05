@@ -11,7 +11,6 @@ tags:
   - Java
   - MATLAB
   - Mac OS
-cover: https://s2.loli.net/2024/01/05/JtUAnOgPxj8bopr.png
 ---
 
 ## 前言
