@@ -12,7 +12,7 @@ tags:
   - MATLAB
   - Mac OS
 description: OpenCV是一个基于Apache2.0许可（开源）发行的跨平台计算机视觉和机器学习软件库
-cover: https://s2.loli.net/2024/01/05/9c5WJ4jmxpHh3tb.png
+cover: https://github.com/KXHH2021/xiao.xiaopengw.com/assets/88917933/0e89f5eb-edb5-448a-b300-2b6e8c04db50
 ---
 
 ## 前言
