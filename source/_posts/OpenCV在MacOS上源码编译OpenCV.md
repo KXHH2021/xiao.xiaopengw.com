@@ -1,5 +1,5 @@
 ---
-title: 在MacOS上源码编译OpenCV 
+title: 【OpenCV】在MacOS上源码编译OpenCV 
 date: 2024-01-04 20:00:00
 categories:
   - OpenCV
@@ -14,6 +14,7 @@ tags:
 description: OpenCV是一个基于Apache2.0许可（开源）发行的跨平台计算机视觉和机器学习软件库
 cover: https://github.com/KXHH2021/xiao.xiaopengw.com/assets/88917933/0e89f5eb-edb5-448a-b300-2b6e8c04db50
 ---
+## 【OpenCV】在MacOS上源码编译OpenCV 
 
 ## 前言
 在做视觉任务时，我们经常会用到开源视觉库OpenCV，OpenCV是一个基于Apache2.0许可（开源）发行的跨平台计算机视觉和机器学习软件库，它具有C++，Python，Java和MATLAB接口，并支持Windows，Linux，Android和Mac OS。 最近在项目中，我遇到了在MacOS上使用OpenCV需求，目前OpenCV官网上并没有提供OpenCV现成的安装包，因此在此处我们需要自己进行编译，所以在此处我们将结合``opencv_4.8.0``、``opencv_contril_4.8.0``，演示如何源码编译并使用
