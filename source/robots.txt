@@ -1,3 +1,1 @@
-User-agent: *
-Allow: /
-Sitemap: https://xiao.xiaopengw.com/sitemap.xml
+
