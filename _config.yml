@@ -105,9 +105,9 @@ sitemap:
     tag: false # 标签页不添加到网站地图中
     category: false # 分类页不添加到网站地图中
 
-nofollow:
-  enable: true
-  field: site
+#nofollow:
+#  enable: true
+#  field: site
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
