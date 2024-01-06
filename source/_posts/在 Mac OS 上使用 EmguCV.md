@@ -1,6 +1,6 @@
 ---
 title: 【OpenCV】在Mac OS 上使用 EmguCV
-date: 2024-01-06 21:00:00
+date: 2024-01-05 21:00:00
 categories:
   - OpenCV
 tags:
