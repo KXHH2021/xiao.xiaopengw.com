@@ -1,6 +1,6 @@
 ---
 title: How to train LLaMA 2 chatbot（训练LLaMA 2 聊天机器人）
-date: 2023-01-07 12:00:00
+date: 2024-01-07 12:00:00
 categories:
   - Learning Notes
 tags:
