@@ -5,12 +5,10 @@ categories:
   - C++ Core Guidelines
 tags:
   - C/C++
-  - 标签2
   - 裸指针
   - 现代C++
   - 指针
   - RAII
-  - 资源管理
 description: C++ 核心指南（C++ Core Guidelines）是由 Bjarne Stroustrup、Herb Sutter 等顶尖 C++ 专家创建的一份 C++ 指南、规则及最佳实践。旨在帮助大家正确、高效地使用“现代 C++”。
 cover: https://s2.loli.net/2024/01/07/Ra2zTbmiuV7fkJe.png
 ---
