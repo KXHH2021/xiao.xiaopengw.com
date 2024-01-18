@@ -30,4 +30,6 @@ Luminar Neo是一款创意图片编辑器，拥有强大的功能和直观的界
 
 将链接地址复制到浏览器地址栏回车即可打开下载 
 
-- Mac安装：https://www.macz.com/mac/8131.html?id=MTExOTUyNCZfJjI3LjE4Ni45Ljk4 Win安装：https://soft.macxf.com/soft/2619.html?id=MTcyMDc1
+- Mac安装：https://www.macz.com/mac/8131.html?id=MTExOTUyNCZfJjI3LjE4Ni45Ljk4
+
+- Win安装：https://soft.macxf.com/soft/2619.html?id=MTcyMDc1
