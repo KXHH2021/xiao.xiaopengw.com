@@ -1,3 +1,15 @@
+---
+title: Go语言中，defer的使用时有哪些陷阱
+date: 2024-01-21 10:00:00
+categories:
+  - Go语言
+tags:
+  - defer
+  - Go语言
+description: 大家好，今天我们来聊聊在Go语言中，defer的使用时，会有哪些陷阱？
+cover: https://s2.loli.net/2024/01/21/rSxld2L8v5pJXsy.png
+---
+![image.png](https://s2.loli.net/2024/01/21/rSxld2L8v5pJXsy.png)
 # Go 语言中， defer的使用时有哪些陷阱？
 
 ## 01 介绍
