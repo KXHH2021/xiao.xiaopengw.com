@@ -41,11 +41,11 @@ social:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: /img/favicon.png
+favicon: https://s2.loli.net/2024/03/10/uklWeXCIBJbAU4v.png
 
 # Avatar (頭像)
 avatar:
-  img: https://i.loli.net/2021/02/24/5O1day2nriDzjSu.png
+  img: https://s2.loli.net/2024/03/10/uklWeXCIBJbAU4v.png
   effect: false
 
 # Disable all banner image
