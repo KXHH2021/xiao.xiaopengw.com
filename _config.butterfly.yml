@@ -577,9 +577,6 @@ microsoft_clarity:
 # Advertisement
 # --------------------------------------
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3131692733354033"
-     crossorigin="anonymous"></script>
-
 # Google Adsense (谷歌廣告)
 google_adsense:
   enable: true
